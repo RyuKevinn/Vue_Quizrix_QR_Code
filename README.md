@@ -1,0 +1,1 @@
+# Vue_Quizrix_QR_Code
